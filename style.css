@@ -1,0 +1,16 @@
+.qa {
+  display: inline-block;
+  background-color: green;
+  border-radius: 20px;
+  padding: 9px;
+}
+h1 {
+  color: darkgray;
+  display: inline-block;
+  margin-left: 4px;
+}
+div{display: inline-block;
+margin-right: 10px;
+border:  2px solid black ;
+border-radius: 10px;
+}
